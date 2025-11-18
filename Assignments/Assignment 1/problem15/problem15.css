@@ -1,0 +1,35 @@
+.box{
+    width:150px;
+    height:150px;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.static-box{
+    background: #444;
+    color: white;
+}
+
+.relative-box{
+    background:teal;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.absolute-box{
+    background: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.fixed-box{
+    background: purple;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+

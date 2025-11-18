@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+    font-family:sans-serif;
+}
+
+.fixed-header{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.sidebar{
+    width:200px;
+    height:600px;
+    background-color: lightgrey;
+    padding:20px;
+    position: sticky;
+    top:0px;
+}
+
+.container{
+    margin-top:70px ;
+    display: flex;
+}
+
+.content{
+    padding: 20px;
+    flex: 1;
+}

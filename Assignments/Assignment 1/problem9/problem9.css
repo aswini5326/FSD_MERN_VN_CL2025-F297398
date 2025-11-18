@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    color:lightseagreen
+}
+
+.box1 {
+  width: 200px;
+  background-color: lightgreen;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.box2 {
+  width: 200px;
+  background-color: gray;
+  margin: 30px;
+  padding: 20px;
+  border: 3px dashed red;
+  border-radius: 10px;
+  color:white;
+}
+
+.box3 {
+  width: 200px;
+  background-color: lightsteelblue;
+  margin: 40px;
+  padding: 30px;
+  border: 4px dotted green;
+  border-radius: 20px;
+}

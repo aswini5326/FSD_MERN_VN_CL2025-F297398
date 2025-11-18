@@ -1,0 +1,44 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+}
+
+.card{
+    width:300px;
+    height:400px;
+    border:1px dashed black;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: lightgreen;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px #333;
+}
+
+img{
+    width:200px;
+    height:120px;
+    border-radius: 10px;
+}
+
+#title{
+    color: red;
+}
+
+.desc{
+    color : #333;
+    font-size: 15px;
+}
+
+button{
+    background-color: lightcyan;
+    padding : 10px;
+    border-radius: 5px;
+    margin: 5px;
+    border-color: transparent;
+    font-weight: bold;
+}
