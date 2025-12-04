@@ -1,0 +1,56 @@
+[
+{
+"id": "cse",
+"name": "Computer Science & Engineering",
+"description": "Focuses on software development, algorithms and modern computing.",
+"fullDescription": "The CSE department trains students in software engineering, algorithms, system design and modern computing paradigms. We emphasize practical labs, project-based learning and industry-aligned curriculum.",
+"courses": ["Data Structures & Algorithms","Operating Systems","Database Management Systems","Web Technologies"],
+"faculty": ["Dr. Kumar","Dr. Meena","Prof. Ajay"],
+"labs": ["Programming Lab","Networks Lab","AI Lab"]
+},
+{
+"id": "it",
+"name": "Information Technology",
+"description": "Covers networking, web development and information systems.",
+"fullDescription": "The IT department focuses on network administration, web systems, cybersecurity basics and enterprise IT solutions. Students get hands-on networking and web application experience.",
+"courses": ["Computer Networks","Web Engineering","Cybersecurity"],
+"faculty": ["Dr. Ramesh","Prof. Priya"],
+"labs": ["Network Lab","Web Lab"]
+},
+{
+"id": "ece",
+"name": "Electronics & Communication Engineering",
+"description": "Deals with electronics, signals and communication systems.",
+"fullDescription": "ECE covers analog/digital electronics, signal processing, embedded systems and wireless communication. The department maintains modern electronics labs and project work options.",
+"courses": ["Analog Electronics","Digital Signal Processing","Microcontrollers"],
+"faculty": ["Prof. Nisha","Dr. Varun"],
+"labs": ["Circuits Lab","Embedded Systems Lab"]
+},
+{
+"id": "mech",
+"name": "Mechanical Engineering",
+"description": "Mechanical design, manufacturing and thermodynamics.",
+"fullDescription": "Mechanical Engineering focuses on mechanics, thermodynamics, CAD/CAM and manufacturing processes. Students work on workshops and lab-based projects.",
+"courses": ["Thermodynamics","Machine Design","Manufacturing Processes"],
+"faculty": ["Dr. Suresh","Prof. Kavita"],
+"labs": ["Workshop","Thermal Lab"]
+},
+{
+"id": "civil",
+"name": "Civil Engineering",
+"description": "Structures, geotech and construction engineering.",
+"fullDescription": "Civil Engineering covers structural analysis, geotechnical engineering, construction management and surveying. The department offers fieldwork and lab sessions.",
+"courses": ["Structural Analysis","Concrete Technology","Surveying"],
+"faculty": ["Dr. Anil","Prof. Rekha"],
+"labs": ["Materials Lab","Soil Mechanics Lab"]
+},
+{
+"id": "mba",
+"name": "Master of Business Administration",
+"description": "Business, management and leadership skills.",
+"fullDescription": "MBA provides training in finance, marketing, HR, operations and entrepreneurship. The program offers case studies, internships and industry interactions.",
+"courses": ["Marketing Management","Financial Accounting","Human Resource Management"],
+"faculty": ["Dr. Priyadarshini","Prof. Raja"],
+"labs": ["Finance Lab","Entrepreneurship Cell"]
+}
+]
